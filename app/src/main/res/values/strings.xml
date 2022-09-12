@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">actividad6</string>
+    <string name="date">Select your date</string>
+    <string name="calculaEdad">Calcula tu edad</string>
+    <string name="nacimiento">Selecciona tu fecha de nacimiento</string>
+    <string name="edad">Tu edad se mostrara aqui</string>
+</resources>
